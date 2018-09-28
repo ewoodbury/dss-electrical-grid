@@ -4,7 +4,7 @@ In this project, we will be using data on electricity consumption, electricity p
 
 This project is part of the Data Science Society at Berkeley's General Membership Program.
 
-Data (so far):
+Data:
 
 Electricity consumption: http://www.ercot.com/gridinfo/load/load_hist
 
