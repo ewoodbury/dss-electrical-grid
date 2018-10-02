@@ -1,0 +1,32 @@
+ERCOT Winter Projected Demand							
+
+CONTROL AREA				LOCATION			ACRONYM
+
+Austin Energy				 Austin, TX 			AENX
+American Electric Power Co.		 Columbus, OH 			AEPX
+City Public Service			 San Antonio, TX 		CPST
+Lower Colorado River Authority		 Austin, TX 			LCRA
+Brownsville Public Utilities Board	 Brownsville, TX 		BPUB
+Reliant Energy				 Houston, TX 			REIT
+South Texas Electric Cooperative	 Nursery, TX 			STEC
+Texas Municipal Power Pool		 Waco, TX 			TMPP
+Texas-New Mexico Power Co.		 League City, TX 		TNMP
+TXU Electric Co.			 Dallas, TX 			TUET
+
+
+
+	 2001	 2002	 2003	 2004	 2005	 2006	 2007	 2008	 2009	 2010
+
+AENX	 1650	 1694	 1784	 1932	 2002	 2098	 2201	 2310	 2423	 2543
+AEPX	 5903	 6045	 6201	 6371	 6548	 6741	 6866	 7204	 7559	 7931
+CPST	 2453	 2544	 2654	 2757	 2860	 2955	 3067	 3218	 3376	 3543
+LCRA	 2683	 2831	 2980	 3134	 3294	 3438	 3614	 3791	 3978	 4174
+BPUB	  168	  176	  490	  547	  572	  604	  802	  862	  916	  968
+REIT	10420	 9571	 9797	10112	10359	10620	10661	11185	11736	12313
+STEC	  336	  366	  382	  397	  415	  435	  458	  481	  504	  529
+TMPP	 2504	 2578	 2674	 2745	 2849	 2961	 3067	 3217	 3376	 3542
+TNMP	  803	  820	 1006	 1000	 1032	 1111	 1186	 1244	 1305	 1369
+TUET	17113	17769	18036	18465	18975	19413	19909	20888	21916	22995
+ERCOT	44033	44394	46004	47460	48906	50375	51830	54401	57090	59906
+
+										
