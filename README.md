@@ -1,10 +1,10 @@
 # dss-electrical-grid
 
-In this project, we will be using data on electricity consumption, electricity prices, and power outages to build a machine learning model that can predict future electricity usage and power outages. We will also use data on weather and socioeconomic factors in our analysis.
+In this project, I used data on electricity consumption, electricity prices, and power outages to build a simple statistical model to predict future electricity usage and power outages. In the future, I plan to add data on weather and socioeconomic factors into this analysis.
 
-This project is part of the Data Science Society at Berkeley's General Membership Program.
+This project is part of the Data Science Society at Berkeley's General Membership Program, and was completed in Fall 2018.
 
-Data:
+### Data:
 
 Electricity consumption: http://www.ercot.com/gridinfo/load/load_hist
 
